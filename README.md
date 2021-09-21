@@ -3,6 +3,8 @@ Personal project that uses the additional mutagen method to create metadata for 
 
 No apologies that the code is choppy, was created for a hopefully one-off personal need which has been completed. Suggestions to make it less choppy welcome though, always down to learn.
 
+test
+
 # Files
 main.py - Handles files with the following naming convention:
 * [track #]. [track artist] - [track title].[file type]
